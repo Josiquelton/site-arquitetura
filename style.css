@@ -1,0 +1,142 @@
+*{
+    margin-left: 5%;
+    margin-right: 0%;
+    
+}
+
+#menuhigher{
+    background-image: url(./img/planodefundo.svg);
+    padding-bottom: 10%;
+    padding-left: 5%;
+    
+}
+
+#menuhigher h1{
+    color:#FFFFFF;
+    font-family: 'Inter';
+    font-size: 55px;
+    font-style: normal;
+    padding-top: 10%;
+    margin-top: 5%;
+    padding-left: 5%;
+    
+
+}
+
+#menuhigher h4{
+    color:#FFFFFF;
+    font-family: 'Inter';
+    padding-left: 5%;
+    font-style: normal;
+
+}
+
+#Information{
+    
+    background: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    margin: 25px 0px 25px 45px;
+    padding-left: 8%;
+    margin-left: 5%;  
+
+}
+
+
+.number{
+    font-size: 35px;
+    
+    
+}
+
+#History{
+    background-color: white;
+    padding-top: 250px;
+    padding-left: 45px;
+    margin-left: 5%;
+    
+    
+}
+
+#History h1{
+    font-family: 'Inter';
+    position: relative;
+    
+    
+}
+
+
+.textOne{
+    
+    font-family: 'Inter';
+    font-size: 15px;
+    position: relative;
+    margin-left: 10%;
+    margin-top: 3%;
+    
+}
+
+.photo{
+    box-shadow: 20px 20px lightgrey;
+    width: 20%;
+    position: absolute;
+    padding-top: 0px;
+    left: 920px;
+    top: 800px
+    
+}
+
+.photo:hover{
+    box-shadow: 50px 40px grey;
+}
+
+#endofpage{
+    background-image: url(./img/planodefundo.svg);
+    padding-bottom: 10%;
+    margin-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 25%;
+    margin-bottom: 10%;
+}
+
+#endofpage h2{
+    margin-top: 15%;
+    text-align: center;
+    padding-top: 5%;
+    color: #F9F9F9;
+    font-family: 'Inter';
+}
+
+input{
+    font:'Raleway';
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 25%;
+    height: 52px;
+    padding-left: 3%;
+    padding-right: 10%;
+    margin-top: 3%;
+    margin-left: 30%;
+    font-size: 20px;
+    color: #0000004D 30%;  
+
+}
+
+button{
+    color:#FFFFFF;
+    font:'Raleway';
+    text-align: center;
+    background:#C07212;
+    position: absolute;
+    cursor: pointer;
+    width: 286px;
+    height: 74px;
+    left: 577px;
+    margin-top: 60px;
+    margin-left: 180px;
+    font-size: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
